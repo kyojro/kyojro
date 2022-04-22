@@ -29,5 +29,5 @@ I am a novice DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github-com.translate.goog/devicons/devicon/blob/master/icons/bash/bash-original.svg?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=op,wapp" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <div>
