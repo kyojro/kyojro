@@ -16,7 +16,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 
+### :man_technologist: About Me :
+I am a novice DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- :telescope: Now I'm learning scripting languages (bash, python).
+- :seedling: In addition to the above, a little familiar with :C#, C++
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :avocado: I like to walk, play computer games and sleep :sleeping_bed: :sleeping:
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rostislav-kukharchuk-a26594238/)
 
 <!--
 **kyojro/kyojro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
