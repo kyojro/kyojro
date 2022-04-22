@@ -37,4 +37,4 @@ I am a novice DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=your-github-kyojro
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-kyojro&theme=dark&background=000000)](https://git.io/streak-stats)
