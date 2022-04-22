@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -25,6 +26,7 @@ I am a novice DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :avocado: I like to walk, play computer games and sleep :sleeping_bed: :sleeping:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Im_here-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rostislav-kukharchuk-a26594238/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,12 +36,14 @@ I am a novice DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <div>
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyojro&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyojro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :writing_hand: Blog Posts :
