@@ -25,3 +25,9 @@ I am a novice DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :avocado: I like to walk, play computer games and sleep :sleeping_bed: :sleeping:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Im_here-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rostislav-kukharchuk-a26594238/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github-com.translate.goog/devicons/devicon/blob/master/icons/bash/bash-original.svg?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=op,wapp" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <div>
